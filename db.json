@@ -6,6 +6,12 @@
       "title": "mekke ph�zz",
       "body": "halla dam3r"
     }
+    {
+      "id": 1,
+      "userId": 2,
+      "title": "Shishkebab",
+      "body": "asdfasdfasdfar wthaioeh tawhkjwa eklhwejlakh awle vjrlkwaejløaw lkawejvrlkawejvlø"
+    }
   ],
   "users": [
     {
@@ -13,6 +19,24 @@
       "userName": "Halla",
       "userGender": "Male",
       "userAge": 27
+    },
+    {
+      "id": 2,
+      "userName": "Jim",
+      "userGender": "Male",
+      "userAge": 30
+    },
+    {
+      "id": 3,
+      "userName": "Lars",
+      "userGender": "Woman",
+      "userAge": 7
+    },
+    {
+      "id": 4,
+      "userName": "Heidi",
+      "userGender": "Woman",
+      "userAge": 20
     }
   ]
 }
