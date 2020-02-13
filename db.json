@@ -2,7 +2,12 @@
   "posts": [
     {
       "id": 1,
-      "userId": "hello",
+      "user": {
+        "userId": 1,
+        "userName": "Halla",
+        "userGender": "Male",
+        "userAge": 27
+      },
       "title": "mekke ph�zz",
       "body": "halla dam3r"
     }
