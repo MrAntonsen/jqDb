@@ -1,6 +1,10 @@
 {
-  "id": 1,
-  "userId": "hello",
-  "title": "mekke phøzz",
-   "body": "halla dam3r"
+  "posts": [
+    {
+      "id": 1,
+      "userId": "hello",
+      "title": "mekke phï¿½zz",
+      "body": "halla dam3r"
+    }
+  ]
 }
